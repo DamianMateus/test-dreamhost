@@ -1,0 +1,21 @@
+{
+  "MainPage": {
+    "mainTitle": "WordPress Geniuses — At Your Service",
+    "paragraph1": "While WordPress makes it easy for anyone to build a website without knowing how to code, there's always a chance of running into an issue that you don't know how to fix. That's where we come in! DreamHost's friendly, pro-level customer support representatives are the best in the biz, skillfully striving to always make sure your hosting needs are met.",
+    "paragraph2": "Have an issue? Just let us know — when it comes to WordPress hosting, no question is ever too simple or too complex.",
+    "learnMore": "Learn More",
+    "subTitle": "Get Your Website Live Today",
+    "paragraph3": "Stack the deck in your favor by combining WordPress, the world's most popular website platform, with DreamHost's optimized web hosting",
+    "getStarted": "Get Started",
+    "startinAt": "Starting at just $2.59/mo",
+    "faq": "Frequently Asked Questions",
+    "faq1": "Elit neque venenatis neque id.",
+    "aFaq1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa eget ultrices eleifend aliquam et erat enim, pretium. Ut augue fermentum maecenas fermentum in aenean lorem faucibus sit. Tristique neque donec eleifend semper aenean elit, amet. Id euismod morbi tincidunt sit sit penatibus.",
+    "faq2": "Elit neque venenatis neque id.",
+    "aFaq2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa eget ultrices eleifend aliquam et erat enim, pretium. Ut augue fermentum maecenas fermentum in aenean lorem faucibus sit. Tristique neque donec eleifend semper aenean elit, amet. Id euismod morbi tincidunt sit sit penatibus.",
+    "faq3": "Elit neque venenatis neque id.",
+    "aFaq3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa eget ultrices eleifend aliquam et erat enim, pretium. Ut augue fermentum maecenas fermentum in aenean lorem faucibus sit. Tristique neque donec eleifend semper aenean elit, amet. Id euismod morbi tincidunt sit sit penatibus.",
+    "faq4": "Elit neque venenatis neque id.",
+    "aFaq4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa eget ultrices eleifend aliquam et erat enim, pretium. Ut augue fermentum maecenas fermentum in aenean lorem faucibus sit. Tristique neque donec eleifend semper aenean elit, amet. Id euismod morbi tincidunt sit sit penatibus."
+  }
+}
