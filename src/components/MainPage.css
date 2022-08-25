@@ -1,0 +1,407 @@
+/* Desktop xxl*/
+
+@media screen and (min-width: 1025px) {
+  #firstPage {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 17rem;
+  }
+
+  #title {
+    font-weight: bold;
+    line-height: 80px;
+    font-size: 64px;
+    max-width: 40rem;
+  }
+
+  #containerParagraph {
+    font-size: 24px;
+    font-weight: normal;
+    max-width: 39rem;
+  }
+
+  #lineTitle {
+    display: contents;
+  }
+
+  #firstPage #learnMore {
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  #label_image {
+    margin-top: 2rem;
+    margin-left: -19rem;
+    max-width: fit-content;
+    max-height: 110px;
+  }
+
+  #image_1 {
+    position: absolute;
+    max-width: 40%;
+    margin-top: -7rem;
+    margin-left: 3rem;
+  }
+
+  #SecondPage {
+    margin-top: 15rem;
+    background-color: #09294C;
+    margin-right: -11rem;
+  }
+
+  #SecondPage h2 {
+    font-size: 88px;
+    font-weight: 600;
+    color: white;
+    line-height: 80px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    margin-left: 9rem;
+  }
+
+  #SecondPage p {
+    font-size: 24px;
+    color: lightgray;
+    line-height: 40px;
+    font-weight: 300;
+    margin-bottom: 4rem;
+    margin-left: 9rem;
+  }
+
+  #button_label {
+    font-size: 24px;
+    font-weight: 400;
+    border-radius: 40px;
+    width: 12rem;
+    height: 4rem;
+    margin-left: 9rem;
+  }
+
+  #button_legend {
+    font-size: 20px;
+    color: white;
+    margin-left: 27rem !important;
+    margin-top: -3.5rem;
+  }
+
+  #image_3 {
+    position: absolute;
+    margin-top: -12rem;
+    max-width: 600px;
+    margin-left: 4rem;
+  }
+
+  #thirdPage {
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+    margin-left: 8rem;
+  }
+
+  svg {
+    margin-left: 25rem;
+    padding: 3px;
+    color: black;
+  }
+
+  #faqQuestions {
+    max-width: 60rem;
+    margin-top: 10rem;
+
+  }
+
+  #titlePage3 {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    margin-top: 10rem;
+  }
+
+  #subtitlePage3 {
+    font-size: bold;
+    font-size: 20px;
+  }
+
+  #paragraphPage3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+/* tablet */
+@media screen and (max-width: 1024px) {
+  #label_image {
+    display: none;
+  }
+
+  #firstPage {
+    margin-left: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+  }
+
+  #title {
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold;
+    line-height: 80px;
+    max-width: 40rem;
+    margin-left: 19%;
+    margin-bottom: 2rem;
+  }
+
+  #lineTitle {
+    display: none;
+  }
+
+  #paragraph {
+    width: 23rem;
+    margin-left: 8rem;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+  }
+
+  img#image_1 {
+    width: 32rem;
+    position: absolute;
+    margin-left: 32rem;
+    margin-top: -43rem;
+  }
+
+  #paragraph3 {
+    margin-left: 5rem;
+    margin-top: 4rem;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    background-color: #F3F5F9;
+    padding: 3rem;
+    padding-right: 5rem;
+  }
+
+  #learnMore {
+    position: absolute;
+    margin-left: 51rem;
+    margin-top: -7rem;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  #SecondPage {
+    background-color: #09294C;
+    margin-left: -1rem;
+    margin-right: -8rem;
+  }
+
+  #subtitle {
+    color: white;
+    font-size: 64px;
+    line-height: 80px;
+    font-weight: bold;
+    width: 25rem;
+    margin-bottom: 2rem;
+    margin-left: 8rem;
+  }
+
+  #paragraph_page2 {
+    font-size: 32px;
+    line-height: 40px;
+    color: lightgray;
+    margin-bottom: 2rem;
+    width: 25rem;
+    margin-left: 8rem;
+  }
+
+  #image_3 {
+    max-width: 34rem;
+    position: absolute;
+    margin-top: -8rem;
+  }
+
+  #button_label {
+    font-size: 24px;
+    font-weight: 400;
+    border-radius: 40px;
+    width: 12rem;
+    height: 4rem;
+    margin-left: 6rem;
+  }
+
+  #button_legend {
+    color: white;
+    margin-left: 23rem;
+    margin-bottom: 5rem;
+    margin-top: -2.5rem;
+  }
+
+  #thirdPage {
+    margin-top: 15rem;
+    margin-bottom: 4rem;
+    margin-left: 6rem;
+  }
+
+  #collapsibleIcon {
+    margin-left: 20rem;
+  }
+
+  #titlePage3 {
+    font-size: 48px;
+    line-height: 60px;
+    font-weight: bold;
+  }
+
+  #subtitlePage3 {
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  #paragraphPage3 {
+    font-size: 20px;
+    line-height: 40px;
+  }
+}
+
+/* mobile */
+@media screen and (max-width: 770px) {
+  #label_image {
+    display: none;
+  }
+
+  #lineTitle {
+    display: none;
+  }
+
+  #firstPage {
+    margin-left: 0rem;
+  }
+
+  #title {
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    width: auto;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 40px;
+    text-align: left;
+    max-width: 23rem;
+  }
+
+  #paragraph {
+    width: auto;
+    text-align: left;
+    margin-left: -6rem;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 400;
+    margin-left: 2rem;
+    max-width: 23rem;
+  }
+
+  img#image_1 {
+    width: 32rem;
+    position: relative;
+    margin-left: 2rem;
+    margin-top: -93rem;
+  }
+
+  #paragraph3 {
+    margin-left: 5rem;
+    margin-top: 24rem;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 40px;
+    background-color: #F3F5F9;
+    max-width: 23rem;
+    width: max-content;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
+  }
+
+  #learnMore {
+    margin-left: 8rem;
+    margin-top: -8rem;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  #image_3 {
+    display: none;
+  }
+  #SecondPage{
+    margin-right: -11rem;
+    padding-bottom: 5rem;
+  }
+
+  #subtitle {
+    color: white;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: bold;
+    width: 25rem;
+    margin-bottom: 2rem;
+    margin-left: 4rem;
+    margin-top: 2rem;
+  }
+
+  #paragraph_page2 {
+    font-size: 24px;
+    line-height: 40px;
+    color: lightgray;
+    margin-bottom: 2rem;
+    width: 25rem;
+    margin-left: 4rem;
+  }
+
+  #button_label {
+    font-size: 24px;
+    font-weight: 400;
+    border-radius: 40px;
+    width: 12rem;
+    height: 4rem;
+    margin-left: 3rem;
+  }
+
+  #button_legend {
+    color: white;
+    margin-left: 4rem;
+    margin-bottom: 5rem;
+    margin-top: 1rem;
+    position: absolute;
+  }
+
+  #thirdPage {
+    margin-left: 2rem;
+  }
+
+  #collapsibleIcon {
+    margin-left: 2rem;
+  }
+
+  #separator {
+    margin-bottom: 2rem;
+  }
+
+  #separator1 {
+    margin-bottom: 2rem;
+  }
+
+  #titlePage3 {
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: bold;
+    margin-bottom: 2rem;
+  }
+
+  #subtitlePage3 {
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  #paragraphPage3 {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 2rem;
+  }
+}
